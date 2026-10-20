@@ -26,4 +26,7 @@
     anima try
     a2d improve
     lmcache weekly
-    
+20261019-20261020    
+    "E:\aaa-all-notes-e\202610-dhz.pptx"
+    D:\daily\mimo\weilan-longqi-job
+    专项练习-线性代数
