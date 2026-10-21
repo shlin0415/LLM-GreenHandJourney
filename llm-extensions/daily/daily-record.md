@@ -30,3 +30,7 @@
     "E:\aaa-all-notes-e\202610-dhz.pptx"
     D:\daily\mimo\weilan-longqi-job
     专项练习-线性代数
+20261021
+    check cheating
+    yaoming bio
+    p-val 100% > 0.05?
