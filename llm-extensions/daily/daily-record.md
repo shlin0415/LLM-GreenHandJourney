@@ -34,3 +34,15 @@
     check cheating
     yaoming bio
     p-val 100% > 0.05?
+20261022-20261027
+    # 在服务器上先创建一个 tmux 会话
+    tmux new -s dsh-work
+    # 然后在 tmux 会话中启动 dsh-tui
+    dsh --profile tui
+    # 如果断开，下次 SSH 登录后执行：
+    tmux attach -t dsh-work
+    allrouter
+20261028
+    grad paper 3 part
+    dsh-work: 1 windows (created Tue Oct 27 15:14:46 2026) (attached)
+    dsh-work-plugin-install: 1 windows (created Wed Oct 28 10:29:13 2026) (attached)
