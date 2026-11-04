@@ -46,3 +46,12 @@
     grad paper 3 part
     dsh-work: 1 windows (created Tue Oct 27 15:14:46 2026) (attached)
     dsh-work-plugin-install: 1 windows (created Wed Oct 28 10:29:13 2026) (attached)
+  We're changing auto mode to no longer charge for classifier requests in Claude Code.
+  However, this session isn't eligible because your requests go through allrouter.cc, which isn't compatible with this update.
+  Nothing breaks: auto mode keeps working, and its classifier requests are billed as before.
+  To fix it and access the new version of auto mode, ask your gateway to implement: https://code.claude.com/docs/en/auto-mode-classifier-billing
+20261029-20261104
+    allrouter all models
+    cross species
+    impute
+    meituan test
